@@ -1,0 +1,9 @@
+time_clocks.vo: time_clocks.v
+time_clocks.vi: time_clocks.v
+railroad_crossing.vo: railroad_crossing.v time_clocks.vo
+railroad_crossing.vi: railroad_crossing.v time_clocks.vo
+TemporalOperators.vo: TemporalOperators.v time_clocks.vo
+TemporalOperators.vi: TemporalOperators.v time_clocks.vo
+time_clocks.html: time_clocks.v
+railroad_crossing.html: railroad_crossing.v time_clocks.html
+TemporalOperators.html: TemporalOperators.v time_clocks.html
