@@ -1,6 +1,7 @@
 Name: RailRoad_Crossing_Example
 Title: The Railroad Crossing Example.
-Author: Carlos Daniel Luna (http://www.fing.edu.uy/~cluna).
+Author: Carlos Daniel Luna
+Homepage: http://www.fing.edu.uy/~cluna
 Institution: Computing Science Department (InCo) at the Engineering
 School of the Universidad de la Republica, Montevideo, Uruguay.
 Date: February-March 2000.
@@ -12,4 +13,3 @@ time and we prove invariants, the system safety property and the NonZeno
 property, using the logics CTL and TCTL.
 Keywords: CTL, TCTL, Real Time Systems, Timed Automata, Safety
 Properties, Invariants, NonZeno, Discrete Time.
-Version: 6.3
