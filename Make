@@ -1,4 +1,4 @@
--R . RailRoad_Crossing_Example
+-R . RailroadCrossing
 railroad_crossing.v
 time_clocks.v
 
