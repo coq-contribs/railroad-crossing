@@ -13,3 +13,4 @@ time and we prove invariants, the system safety property and the NonZeno
 property, using the logics CTL and TCTL.
 Keywords: CTL, TCTL, Real Time Systems, Timed Automata, Safety
 Properties, Invariants, NonZeno, Discrete Time.
+Category: Computer Science/Concurrent Systems and Protocols/Correctness of specific protocols
