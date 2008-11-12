@@ -731,7 +731,6 @@ Proof.
   BeginForAll.
   apply Trivial1.
   SplitTrans_Simpl.
-  apply (Trivial2 Reset).
   Simpl_or H0.
   apply (Trivial3 (p_s1 H3)).
 Qed.
@@ -1681,3 +1680,4 @@ Other specification of NonZeno:
 Definition S_true := [s:StGlobal] True. 
 Lemma NonZeno : (ForAll_TCG SiniTCG ([s:StGlobal] (Exists_T TrGlobal s S_true (eq_Ck tick)))).
 *)
+
