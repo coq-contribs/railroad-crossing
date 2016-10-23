@@ -4,7 +4,7 @@ Author: Carlos Daniel Luna
 Homepage: http://www.fing.edu.uy/~cluna
 Institution: Computing Science Department (InCo) at the Engineering
 School of the Universidad de la Republica, Montevideo, Uruguay.
-Date: February-March 2000.
+Date: February-March 2000
 Description: This library present the specification and verification of
 one real time system: the Railroad Crossing Problem, which has been
 proposed as a benchmark for the comparison of real-time formalisms. We
